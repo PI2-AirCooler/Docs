@@ -1,2 +1,2 @@
 # Docs
-Documentação do Projeto AirCooler
+Documentação do Projeto AcquaCooler
